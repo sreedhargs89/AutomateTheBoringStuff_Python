@@ -31,27 +31,3 @@ print(f"Name: {name}")
 print(f"Age: {age}")
 print(f"Is Student: {is_student}")
 
-# Array of colors
-colors = ["Red", "Green", "Blue"]
-print(f"Colors: {colors}")
-print(f"Number of colors: {len(colors)}")
-for color in colors:
-    print(f"Color: {color}")
-
-# Dictionary for a person
-person = {
-    "Name": "Sree",
-    "Age": 30,
-    "Is Student": True
-}
-print(f"Person Dictionary: {person}")
-
-# Array of dictionaries for multiple people
-people = [
-    {"Name": "Alice", "Age": 30, "Is Student": True},
-    {"Name": "Bob", "Age": 25, "Is Student": False},
-    {"Name": "Charlie", "Age": 35, "Is Student": True}
-]
-
-for person in people:
-    print(f"Person Dictionary: {person}")
