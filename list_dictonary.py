@@ -30,3 +30,5 @@ people = [
 for person in people:
     print(f"Person Dictionary: {person}")
 
+# Automate the Boring Stuff Ch 3-4 (lists, dictionaries): https://automatetheboringstuff.com/2e/chapter3/
+
